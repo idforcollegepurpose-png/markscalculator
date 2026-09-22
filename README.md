@@ -1,2 +1,3 @@
-##version control practice
-This project is maintained using Git
+## Version Control Practice
+
+This project is maintained using Git.
